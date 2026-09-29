@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `[Spotify 1.2M+ Songs]` |
+| Sumber | `[Kaggle]` |
+| Lisensi/ketentuan pakai | `[CC0: Public Domain]` |
+| Ukuran | `[> 1.000.000 baris]` |
+| Periode data | `[1922 - 2021]` |
+| Unit analisis | `[Satu baris mewakili 1 lagu (track) beserta fitur audio akustiknya (danceability, energy, tempo, duration_ms, dsb.)]` |
 
 ## Tempat Mencari Dataset
 
