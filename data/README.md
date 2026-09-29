@@ -11,7 +11,7 @@ Isi informasi berikut sebelum Milestone 1.
 | Lisensi/ketentuan pakai | `[CC0: Public Domain]` |
 | Ukuran | `[> 1.000.000 baris]` |
 | Periode data | `[1922 - 2021]` |
-| Unit analisis | `[Satu baris mewakili 1 lagu (track) beserta fitur audio akustiknya (danceability, energy, tempo, duration_ms, dsb.)]` |
+| Unit analisis | `[Satu baris mewakili satu lagu (track) beserta informasi lagu, album, artis, nomor track, nomor disc, status explicit, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms, time_signature, year, dan release_date.]` |
 
 ## Tempat Mencari Dataset
 
